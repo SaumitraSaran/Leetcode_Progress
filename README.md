@@ -78,3 +78,11 @@ The repository will continue to grow as I solve more problems on LeetCode.
 > **Practice → Solve → Understand → Repeat.**
 
 *This repository is automatically maintained through my LeetCode submissions.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
