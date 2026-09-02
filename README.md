@@ -89,6 +89,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +98,8 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
