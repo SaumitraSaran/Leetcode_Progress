@@ -85,12 +85,14 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
