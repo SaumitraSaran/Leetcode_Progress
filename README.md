@@ -96,6 +96,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
