@@ -90,6 +90,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +121,8 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
