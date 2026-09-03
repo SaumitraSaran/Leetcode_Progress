@@ -93,6 +93,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | ------- | ------- |
 | [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,8 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
