@@ -94,6 +94,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +135,8 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
