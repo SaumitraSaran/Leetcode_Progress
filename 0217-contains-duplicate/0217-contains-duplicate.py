@@ -4,5 +4,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        isDistinct = (len(nums) == len(set(nums)))
-        return not isDistinct
+        return (len(nums) != len(set(nums)))
