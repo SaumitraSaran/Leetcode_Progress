@@ -107,6 +107,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0058-length-of-last-word](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
