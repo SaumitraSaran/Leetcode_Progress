@@ -87,6 +87,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0009-palindrome-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0136-single-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +149,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,12 +158,14 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
