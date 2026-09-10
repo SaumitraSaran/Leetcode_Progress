@@ -101,6 +101,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0283-move-zeroes/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
