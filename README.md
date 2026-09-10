@@ -103,6 +103,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0414-third-maximum-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0414-third-maximum-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
