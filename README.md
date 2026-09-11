@@ -115,6 +115,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0168-excel-sheet-column-title](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0414-third-maximum-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | ------- | ------- |
 | [0136-single-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
