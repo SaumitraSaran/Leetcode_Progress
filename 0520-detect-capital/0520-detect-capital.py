@@ -8,7 +8,7 @@ class Solution(object):
         # if len(word) == 1:
         #         return True
 
-        # if len(word) == 2 and word[0].islower() and word[1].isupper():
+        # if len(word) <= 2 and word[0].islower() and word[1].isupper():
         #         return False
 
         # if word[ind].isupper() and word[ind+1].isupper():
