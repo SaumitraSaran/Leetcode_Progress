@@ -118,6 +118,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0344-reverse-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 | [0520-detect-capital](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0520-detect-capital/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
