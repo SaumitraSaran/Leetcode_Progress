@@ -88,6 +88,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
