@@ -87,6 +87,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0009-palindrome-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0231-power-of-two](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -185,6 +186,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 ## Hash Table
@@ -224,4 +226,8 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
