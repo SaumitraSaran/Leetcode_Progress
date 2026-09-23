@@ -85,6 +85,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0231-power-of-two/) | Easy |
@@ -114,6 +115,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0058-length-of-last-word/) | Easy |
@@ -192,6 +194,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0242-valid-anagram/) | Easy |
