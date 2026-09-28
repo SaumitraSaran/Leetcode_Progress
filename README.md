@@ -92,6 +92,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0349-intersection-of-two-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +244,8 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0020-valid-parentheses/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
