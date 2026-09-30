@@ -96,6 +96,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
@@ -166,6 +167,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -210,6 +212,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
