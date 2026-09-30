@@ -114,6 +114,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +212,7 @@ The repository will continue to grow as I solve more problems on LeetCode.
 | [0389-find-the-difference](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/SaumitraSaran/Leetcode_Progress/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
